@@ -1,0 +1,8 @@
+tiktoken
+streamlit
+lxml
+bs4
+openai
+python-dotenv
+langchain
+pinecone
