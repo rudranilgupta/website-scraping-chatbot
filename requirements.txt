@@ -5,4 +5,4 @@ bs4
 openai
 python-dotenv
 langchain
-pinecone
+pinecone-client
